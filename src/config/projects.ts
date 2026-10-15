@@ -28,9 +28,7 @@ export const projectsConfig = {
         "Local session history and statistics using SQLite.",
         "Automated testing and code quality checks."
       ],
-      // Add the GitHub repository URL here when it is ready, e.g.
-      // "https://github.com/Samyak-Mohanty/project-eg". Leave empty to hide the link.
-      href: "",
+      href: "https://github.com/Samyak-Mohanty/Earguard",
       // Main screenshot (replace the file or change this path any time).
       imageUrl: "/assets/images/projects/project-eg-dashboard.png",
       // Extra screenshots shown as a gallery on the Projects page.
